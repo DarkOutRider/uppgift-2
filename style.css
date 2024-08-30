@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: goldenrod;
+    padding-block: 2rem;
+    padding-inline: 1rem;
+}
+
+main {
+    background-color: red;
+    height: 100%;
+}
+section {
+    background-color: gold;
+}
+
+
+.primary-navigation {
+    display: flex;
+
+    gap: 1rem;
+
+    list-style: none;
+    color: white;
+}
